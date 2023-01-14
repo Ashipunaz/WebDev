@@ -15,3 +15,12 @@ a:visited{
 a:hover, :active{
     color: #eee;
 }
+table, tr, th, td, caption {
+    border: 1px solid #eee;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+
+
+
+}
